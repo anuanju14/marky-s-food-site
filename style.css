@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mar{
+    color: rgb(76, 172, 196);
+    font-family:'Franklin Gothic Medium','Arial Narrow', Arial, sans-serif;
+    font-size:large;
+    font-weight:900;
+    background-color:rgb(231,223,213);
+}
+.nav{
+    background-color: rgba(52, 88, 109, 0.762);
+     width: 100%;
+     height: 50px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     display: flex;
+     justify-content: space-between;
+     
+     
+
+
+}
+.unorder1
+{
+    width: 100%;
+    height: 50px;
+    padding-left: 20px;
+    margin-left: 100px;
+    display: flex;
+    color: white;
+}
+
+.unorder2
+{
+    width: 100%;
+    height: 50px;
+    justify-content: end;
+    display: flex;
+    color: white;
+}
+.navbar
+{
+    display: flex;
+     padding: 2px;
+    text-align: right;
+  
+}
+
+
+
+.Menu{
+    position: sticky;
+    top: 0;
+    
+
+}
+.menu{
+    background-color: rgba(240, 242, 244, 0.762);
+    width: 100%;
+    height: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+   
+
+}
+.list{
+    display: flex;
+     padding: 2px;
+     text-align: center;
+     text-decoration: none;
+     justify-content: space-evenly;
+
+}
+.video{
+    width: 500px;
+    height: 700px;
+    text-align: center;
+    margin-left: 350px;
+}
+.img
+{
+   margin-top: 70px;
+   margin-left: 60px;
+}
+.row{
+     width: 100%;
+     height:500px;    
+     display: flex;
+     justify-content: space-evenly;
+     margin: 20px;
+}
+.row:hover
+{
+    box-shadow: 2px 2px 2px 2px rgb(61, 152, 168);
+}
+.row1{
+    width: 100%;
+     height:300px;    
+     display: flex;
+     justify-content: space-evenly;
+     margin: 20px;
+     color:  rgba(52, 88, 109, 0.762);
+     font-weight: 500;
+
+}
+.b2{
+    margin-left: 70px;
+    width: 100%;
+   
+}
+.pro{
+    color:rgba(52, 88, 109, 0.762) ;
+    font-weight: 900;
+    margin: 50px;
+
+
+}
+.bu{
+    color:   rgba(52, 88, 109, 0.762);
+   box-shadow:  2px 2px 2px 2px rgb(151, 151, 213);
+   width: 60px;
+   height: 20px;
+   
+
+}
+.bu:hover{
+    color: brown;
+    background-color: rgb(189, 178, 200);
+}
+.button{
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.row3{
+    display: flex;
+    justify-content: space-between;
+ margin-left: 50px;
+}
+
+.col3{
+    border:  3px  solid black;
+    display: flex;
+}
+h1{
+    color: blue;
+}
+footer
+{
+    margin: 50px;
+    background-color: rgb(142, 142, 187);
+    height: 400px;
+    width: 100%;
+}
+.footer{
+   color: white;
+   justify-content: space-between;
+   margin: 70px;
+  
+
+}
+.footer.l1{
+    width: 100px;
+   justify-content: space-around;
+   height: 300px;
+}
+.fo{
+
+    display: flex;
+}
